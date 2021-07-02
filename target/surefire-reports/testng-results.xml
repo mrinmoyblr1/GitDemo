@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71" started-at="2020-05-26T16:51:38 IST" finished-at="2020-05-26T16:51:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71" started-at="2020-05-26T16:51:38 IST" finished-at="2020-05-26T16:51:38 IST">
+      <class name="testPackage.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:testPackage.SeleniumTest@6e6c3152]" name="BrowserAutomation" duration-ms="0" started-at="2020-05-26T16:51:38 IST" finished-at="2020-05-26T16:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+      </class> <!-- testPackage.SeleniumTest -->
+      <class name="testPackage.RestAPITest">
+        <test-method status="PASS" signature="RestAPITestMethods()[pri:0, instance:testPackage.RestAPITest@50b494a6]" name="RestAPITestMethods" duration-ms="0" started-at="2020-05-26T16:51:38 IST" finished-at="2020-05-26T16:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITestMethods -->
+      </class> <!-- testPackage.RestAPITest -->
+      <class name="testPackage.AppiumTest">
+        <test-method status="PASS" signature="AppiumTestMethods()[pri:0, instance:testPackage.AppiumTest@6ebc05a6]" name="AppiumTestMethods" duration-ms="6" started-at="2020-05-26T16:51:38 IST" finished-at="2020-05-26T16:51:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTestMethods -->
+      </class> <!-- testPackage.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
