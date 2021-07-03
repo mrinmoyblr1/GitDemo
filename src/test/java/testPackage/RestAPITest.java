@@ -19,5 +19,23 @@ public class RestAPITest {
 	}
 	
 	
+	@Test
+	public void RestAPITestMethodsApps() {
+		System.out.println("RestAPITestMethods");
+		System.out.println("RestAPITestMethods 2");
+		
+	}
+	
+	
+	@Test
+	public void RestAPITestMethodsApps2() {
+		System.out.println("RestAPITestMethods");
+		System.out.println("RestAPITestMethods 2");
+		
+	}
+	
+	
+	
+	
 
 }
