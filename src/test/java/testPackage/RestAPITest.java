@@ -10,6 +10,11 @@ public class RestAPITest {
 		System.out.println("RestAPITestMethods 2");
 		System.out.println("RestAPITestMethods 3");
 		
+		System.out.println("RestAPITestMethods 4");
+		System.out.println("RestAPITestMethods 5");
+		System.out.println("RestAPITestMethods 6");
+		System.out.println("RestAPITestMethods 7");
+		
 		
 	}
 	
