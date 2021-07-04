@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testPackage.AppiumTest"/>
-      <class name="testPackage.SeleniumTest"/>
+      <class name="randomTestPack.staleElementException"/>
+      
       
     </classes>
   </test> <!-- Test -->
